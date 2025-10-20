@@ -1,4 +1,4 @@
-# problem_solve-list
+
 Hi, I’m Thoushin Khaled Omi — a passionate learner and developer from Bangladesh.
 I’m currently learning Python and exploring the world of Machine Learning and AI.
 
